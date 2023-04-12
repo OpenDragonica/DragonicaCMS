@@ -1,0 +1,140 @@
+/**Index**/
+.vtop {
+    position: relative;
+    vertical-align: top;
+    display: inline-block;
+}
+.char_guild {
+    display: inline-block;
+    line-height: 30px;
+}
+.char_guildL {
+    text-align: center;
+}
+.star1i{
+height:32px;
+width:32px;
+background-image: url('../images/guildstar.png');
+background-position: 0 0;
+}
+.star2i{
+height:32px;
+width:32px;
+background-image: url('../images/guildstar.png');
+background-position: -32px 0;
+}
+
+.guild{
+height:32px;
+width:32px;
+background-image: url('../images/guildicon01.png');
+}
+td.char_guild {
+width: 32px;
+padding-left:25px; 
+}
+
+.guild#icon1{background-position:0px 0px;}
+.guild#icon2{background-position:-32px 0px;}
+.guild#icon3{background-position:-64px 0px;}
+.guild#icon4{background-position:-96px 0px;}
+.guild#icon5{background-position:-128px 0px;}
+.guild#icon6{background-position:-160px 0px;}
+.guild#icon7{background-position:-192px 0px;}
+.guild#icon8{background-position:-224px 0px;}
+.guild#icon9{background-position:-256px 0px;}
+.guild#icon10{background-position:-288px 0px;}
+.guild#icon11{background-position:-320px 0px;}
+.guild#icon12{background-position:-352px 0px;}
+.guild#icon13{background-position:-384px 0px;}
+.guild#icon14{background-position:-416px 0px;}
+.guild#icon15{background-position:-448px 0px;}
+.guild#icon16{background-position:-480px 0px;}
+.guild#icon17{background-position:0px -32px;}
+.guild#icon18{background-position:-32px -32px;}
+.guild#icon19{background-position:-64px -32px;}
+.guild#icon20{background-position:-96px -32px;}
+.guild#icon21{background-position:-128px -32px;}
+.guild#icon22{background-position:-160px -32px;}
+.guild#icon23{background-position:-192px -32px;}
+.guild#icon24{background-position:-224px -32px;}
+.guild#icon25{background-position:-256px -32px;}
+.guild#icon26{background-position:-288px -32px;}
+.guild#icon27{background-position:-320px -32px;}
+.guild#icon28{background-position:-352px -32px;}
+.guild#icon29{background-position:-384px -32px;}
+.guild#icon30{background-position:-416px -32px;}
+.guild#icon31{background-position:-448px -32px;}
+.guild#icon32{background-position:-480px -32px;}
+.guild#icon33{background-position:0px -64px;}
+.guild#icon34{background-position:-32px -64px;}
+.guild#icon35{background-position:-64px -64px;}
+.guild#icon36{background-position:-96px -64px;}
+.guild#icon37{background-position:-128px -64px;}
+.guild#icon38{background-position:-160px -64px;}
+.guild#icon39{background-position:-192px -64px;}
+.guild#icon40{background-position:-224px -64px;}
+.guild#icon41{background-position:-256px -64px;}
+.guild#icon42{background-position:-288px -64px;}
+.guild#icon43{background-position:-320px -64px;}
+.guild#icon44{background-position:-352px -64px;}
+.guild#icon45{background-position:-384px -64px;}
+.guild#icon46{background-position:-416px -64px;}
+.guild#icon47{background-position:-448px -64px;}
+.guild#icon48{background-position:-480px -64px;}
+.guild#icon49{background-position:0px -96px;}
+.guild#icon50{background-position:-32px -96px;}
+.guild#icon51{background-position:-64px -96px;}
+.guild#icon52{background-position:-96px -96px;}
+.guild#icon53{background-position:-128px -96px;}
+.guild#icon54{background-position:-160px -96px;}
+.guild#icon55{background-position:-192px -96px;}
+.guild#icon56{background-position:-224px -96px;}
+.guild#icon57{background-position:-256px -96px;}
+.guild#icon58{background-position:-288px -96px;}
+.guild#icon59{background-position:-320px -96px;}
+.guild#icon60{background-position:-352px -96px;}
+.guild#icon61{background-position:-384px -96px;}
+.guild#icon62{background-position:-416px -96px;}
+.guild#icon63{background-position:-448px -96px;}
+.guild#icon64{background-position:-480px -96px;}
+.guild#icon65{background-position:0px -128px;}
+.guild#icon66{background-position:-32px -128px;}
+.guild#icon67{background-position:-64px -128px;}
+.guild#icon68{background-position:-96px -128px;}
+.guild#icon69{background-position:-128px -128px;}
+.guild#icon70{background-position:-160px -128px;}
+.guild#icon71{background-position:-192px -128px;}
+.guild#icon72{background-position:-224px -128px;}
+.guild#icon73{background-position:-256px -128px;}
+.guild#icon74{background-position:-288px -128px;}
+.guild#icon75{background-position:-320px -128px;}
+.guild#icon76{background-position:-352px -128px;}
+.guild#icon77{background-position:-384px -128px;}
+.guild#icon78{background-position:-416px -128px;}
+.guild#icon79{background-position:-448px -128px;}
+.guild#icon80{background-position:-480px -128px;}
+.guild#icon81{background-position:0px -160px;}
+.guild#icon82{background-position:-32px -160px;}
+.guild#icon83{background-position:-64px -160px;}
+.guild#icon84{background-position:-96px -160px;}
+.guild#icon85{background-position:-128px -160px;}
+.guild#icon86{background-position:-160px -160px;}
+.guild#icon87{background-position:-192px -160px;}
+.guild#icon88{background-position:-224px -160px;}
+.guild#icon89{background-position:-256px -160px;}
+.guild#icon90{background-position:-288px -160px;}
+.guild#icon91{background-position:-320px -160px;}
+.guild#icon92{background-position:-352px -160px;}
+.guild#icon93{background-position:-384px -160px;}
+.guild#icon94{background-position:-416px -160px;}
+.guild#icon95{background-position:-448px -160px;}
+.guild#icon96{background-position:-480px -160px;}
+.guild#icon97{background-position:0px -192px;}
+.guild#icon98{background-position:-32px -192px;}
+.guild#icon99{background-position:-64px -192px;}
+.guild#icon100{background-position:-96px -192px;}
+.guild#icon101{background-position:-128px -192px;}
+.guild#icon102{background-position:-160px -192px;}
+.guild#icon103{background-position:-192px -192px;}
+.guild#icon104{background-position:-224px -192px;}

@@ -1,0 +1,27 @@
+<p>Toute transaction effectu&eacute;e sur dragonica- : HYDRA 2019.fr, sera exclusivement r&eacute;git par les conditions g&eacute;n&eacute;rales de vente d&eacute;taill&eacute;es ci-dessous.</p>
+<p class="bold">Article 1</p>
+<p>Acceptation des conditions g&eacute;n&eacute;rales de ventes. Le fait pour un utilisateur (ci-apres appel&eacute; "le client" ou "joueur" ) d&rsquo;effectuer un acte d&rsquo;achat ou de confirmer la commande par son paiement, vaut acceptation pleine et enti&egrave;re des pr&eacute;sentes conditions g&eacute;n&eacute;rales de vente, lesquelles seront seules applicables au contrat ainsi conclu. </p>
+<p class="bold">Article 2</p>
+<p>Conclusion du contrat et ex&eacute;cution de commande Le reglement des articles se fait en euros ( EUR ), par paiement Paypal, Paysafecard ou par t&eacute;l&eacute;-paiement via la soci&eacute;t&eacute; Starpass. <br /> Le paiement du ou des articles par le client, vaut acte de commande et acceptation pleine et enti&egrave;re des pr&eacute;sentes conditions g&eacute;n&eacute;rales de vente. </p>
+<p class="bold">Article 3</p>
+<p class="bold">Engagement g&eacute;n&eacute;ral des parties</p>
+<p class="bold">3.1. Engagements de dragonica- : HYDRA 2019.fr</p>
+<p>dragonica- : HYDRA 2019.fr s&rsquo;engage, sauf cas de force majeure, &agrave; proc&eacute;der &agrave; la cr&eacute;ditation en monnaie virtuelle ( Cash ) au prix sp&eacute;cifi&eacute; sur le compte de l&rsquo;utilisateur. </p>
+<p class="bold">Engagements de l&rsquo;utilisateur</p>
+<p>Le client s&rsquo;engage &agrave; acquitter le prix indiqu&eacute; de l&rsquo;article qui doit etre livr&eacute;, la livraison ne s&rsquo;effectuant automatiquement qu&rsquo;apr&egrave;s l&rsquo;achat sur dragonica- : HYDRA 2019.fr. </p>
+<p class="bold">3.2 Clause de r&eacute;tractation</p>
+<p>Le d&eacute;lai de r&eacute;tractation l&eacute;gale est de 7 jours maximum, cependant, &eacute;tant donn&eacute; la nature du service, ce d&eacute;lai l&eacute;gal ne s&rsquo;applique pas au sens de l&rsquo;article L121-20-2 du code de la consommation &laquo; Le droit de r&eacute;tractation ne peut &ecirc;tre exerc&eacute;, sauf si les parties en sont convenues autrement, pour les contrats : 1&deg; De fourniture de services dont l&rsquo;ex&eacute;cution a commenc&eacute;, avec l&rsquo;accord du consommateur, avant la fin du d&eacute;lai de sept jours francs &raquo; Le client en effectuant un achat sur dragonica- : HYDRA 2019.fr consent &agrave; la non application du d&eacute;lai l&eacute;gal des 7 jours de r&eacute;tractation.</p>
+<p class="bold">Article 4</p>
+<p class="bold">Dispositions sp&eacute;ciales</p>
+<p class="bold">4.1.1 Responsabilit&eacute; de dragonica- : HYDRA 2019.fr</p>
+<p>dragonica- : HYDRA 2019.fr n&rsquo;est en aucun cas responsable des d&eacute;g&acirc;ts directs et indirects occasionn&eacute;s par l&rsquo;achat et /ou l&rsquo;utilisation des articles command&eacute;s. dragonica- : HYDRA 2019.fr n&rsquo;est aucun cas responsable des infractions aux lois en vigueur occasionn&eacute;es par l&rsquo;achat et /ou l&rsquo;utilisation des articles vendus sur www.dragonica- : HYDRA 2019.fr</p>
+<p class="bold">4.1.2 Responsabilit&eacute;s du client</p>
+<p>Le client est seul responsable des d&eacute;g&acirc;ts directs et indirects, et infractions commises, occasionn&eacute;(es) par l&rsquo;achat et / ou l&rsquo;utilisation des articles achet&eacute;s sur www.dragonica- : HYDRA 2019.fr</p>
+<p class="bold">4.1.3 Prix, facture</p>
+<p>Le prix total indiqu&eacute; en passant commande par dragonica- : HYDRA 2019.fr est le prix d&eacute;finitif. Ce prix comprend le prix des produits vendus par dragonica- : HYDRA 2019.fr . <br /> Les prix sont indiqu&eacute;s en euros ( EUR ) et sont TTC.<br /> Le reglement des articles se fait en euros ( EUR ) uniquement par carte bancaire via paypal, par carte de pr&eacute;-paiement via Paysafecard, par t&eacute;l&eacute;-paiement via Starpass.</p>
+<p class="bold">4.1.4 Produits</p>
+<p>Les produits sont achetables apr&egrave;s une conversion de l&rsquo;argent r&eacute;el en argent virtuel, (EUR vers "Cash (Monnaie virtuelle)") <br /> Aucun remboursement ne peux &ecirc;tre fait apr&egrave;s l'achat de la Monnaie virtuelle.<br /> En cas de d&eacute;t&eacute;ction d'un logiciel de triche, d'insulte, ou tout autre litige pendant votre sessions, les mod&eacute;rateurs ont le droit de supprimer la monnaie virtuelle de votre compte sans remboursement.<br /> En cas de non respect du r&egrave;glement accept&eacute; pr&eacute;alablement par l&rsquo;utilisateur, apr&egrave;s que ce dernier ait effectu&eacute; un achat sur la plateforme dragonica- : HYDRA 2019.fr, les sanctions appliqu&eacute;es restent les m&ecirc;mes et aucun remboursement ne pourra &ecirc;tre demand&eacute;.</p>
+<p class="bold">4.2. D&eacute;lais de livraison</p>
+<p>Les produits sont d&eacute;livr&eacute; instantan&eacute;ment et automatiquement suite au paiement &agrave; l'exception des paiements via Paysafecard qui peuvent comporter un d&eacute;lais de livraison de 48h maximum.</p>
+<p class="bold">4.3.Transfert du Risque</p>
+<p>dragonica- : HYDRA 2019.fr n&rsquo;est pas responsable d&egrave;s lors que la non cr&eacute;ditation r&eacute;sulte de cas de force majeur ou d&rsquo;un probl&egrave;me chez les prestataires Paypal, Starpass ou Paysafecard. <br /> En cas de probl&egrave;me concernant leur utilisation, l&rsquo;utilisateur est pri&eacute; de les contacter directement les services de Paysafecard, Starpass ou Paypal.</p>

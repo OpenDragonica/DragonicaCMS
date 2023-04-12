@@ -1,0 +1,10 @@
+<?php
+session_start();
+@include('link_map.php');
+session_unset();
+session_destroy();
+session_start();
+$_SESSION['msg_state']=1;
+header("Location:$lindex");
+exit();
+?>
